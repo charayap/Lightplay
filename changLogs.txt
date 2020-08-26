@@ -1,0 +1,6 @@
+From last release version, the following v1.6-26.8.2020 contains the changes:
+
+1. Time out after receiving "multicast stream off" command increased from 1 minute to 5 minutes (after which multicast stream status goes back to on),
+2. When booting, which takes approx. 20 seconds, blocks the a) pairing actvation key, and b) mode change,
+3. Put angle/brightness into default value (angle = bottom left, brightness = 10) after successful "set key" and "clear key" operation,
+4. First version xperimental OTA from Internet firmware server (still experimental)
