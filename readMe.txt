@@ -1,14 +1,14 @@
-Testing file hosting for TPV Light Play firmware updates:
+Latest firmwares for TPV Light Play speakers:
 
-W6205.bin - for model W6205 : Light Play firmware version v1.6-26.8.2020. Uploaded August 26th, 2020
-W6505.bin - for model W6505 : Light Play firmware version v1.6-26.8.2020. Uploaded August 26th, 2020
-
+Version v1.6-26.8.2020. Uploaded August 26th, 2020
+W6205.bin - for model W6205
+W6505.bin - for model W6505
 
 Procedure for activating firmware download:
-1. Make sure that the Light Play is connected to router with Internet access,
-2. Press and hold "Light" button for 3 seconds. The Light Play will blink in orange color,
-3. Press button "volume up" then "volume down",
-4. Repeat step 3 three times
-5. The Light Play will show static red color during firmware update, and reboot afterward
+1. Make sure that the Play-Fi/Light Play is connected to wireless router and has Internet access,
+2. Press and hold "Light" button for 3 seconds. The LEDs will blink in yellow color,
+3. Press button "volume up" then "volume down". Repeat these three times,
+4. The LEDs will show static red color for a short while (during firmware download), and reboot
 
+CURRENT VERSION OF Light Play MAY BE READ FROM PLAY-FI APPs
 DO NOT POWER OFF THE SPEAKER DURING FW UPDATE
