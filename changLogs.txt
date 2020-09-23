@@ -1,4 +1,0 @@
-From last release version, the following v1.7-2.9.2020 contains the changes:
-
-1. Remove a bug that when receiver not connected to router, cannot change light mode
-
