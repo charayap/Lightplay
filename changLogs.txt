@@ -1,5 +1,4 @@
-From last release version, the following v1.8-23.9.2020 contains the changes:
+From last release version, the following v1.9-6.1.2021 contains the changes:
 
-1. the blinking blue light(after booting) continues until it is done with mDNS registration and thus unlock the pairing button,
-2. fix bug when router is open, i.e. no security, (STM MCU sends ssid = "xxx", and pwd = "" to me),
-3. send "u8AlStandbyEn" tp STM MCU at sub-address 23 when value changed, together also send current AL mode
+1. to meet the 2k21 requirement, the default brightness after successful "set key" command is 5 (previously 10)
+

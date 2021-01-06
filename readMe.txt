@@ -1,6 +1,6 @@
 Latest firmwares for TPV Light Play speakers:
 
-Version v1.8-23.9.2020. Uploaded Sept 23rd, 2020
+Version v1.9-6.1.2021. Uploaded 6th Jan, 2020
 W6205.bin - for model W6205
 W6505.bin - for model W6505
 
