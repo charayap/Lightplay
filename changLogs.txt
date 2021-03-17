@@ -1,4 +1,6 @@
-From last release version, the following v1.9-6.1.2021 contains the changes:
+From last release version, the following v2.1-16.3.2021 contains the changes:
 
-1. to meet the 2k21 requirement, the default brightness after successful "set key" command is 5 (previously 10)
+1. Disable IPv6 to try to solve the problem with TV receives IPv6 address instead of IPv4 IP address,
+2. Disable standby flag sent to mcu,
+3. Reduce TTL of mDNS from 10 minutes to 2 minutes
 
